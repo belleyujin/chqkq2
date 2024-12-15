@@ -78,53 +78,53 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/ZSZXP7X/3.jpg",
+            "https://i.ibb.co/9hbPG95/2.jpg",
+            "https://i.ibb.co/PDJHD3L/1.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtube.com/shorts/ToScZ74d3Jc?si=K5tQoCc9FizfZ3Sb",
+            "https://youtu.be/68ejByrDlzg?si=dQda_kYweBBEn-JD",
+            "https://youtu.be/VK6QY-XTL2g?si=DwHwX9GePgH9tGtm"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "광어초밥 관련 첫 번째 텍스트 내용입니다.",
+            "광어초밥 관련 두 번째 텍스트 내용입니다.",
+            "광어초밥 관련 세 번째 텍스트 내용입니다."
         ]
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.ibb.co/grsS21d/3.jpg",
+            "https://i.ibb.co/2KsCQM6/2.jpg",
+            "https://i.ibb.co/dJB5mb1/1.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/E9-2laAbjug?si=SQVqJcxgBTTREJj0",
+            "https://youtu.be/P3cuVX_3iL4?si=8jtmsG--Sz_ROk-6",
+            "https://youtu.be/G67fimywcmk?si=zhHlghkszGPM4cOM"
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "연어초밥 관련 첫 번째 텍스트 내용입니다.",
+            "연어초밥 관련 두 번째 텍스트 내용입니다.",
+            "연어초밥 관련 세 번째 텍스트 내용입니다."
         ]
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/hRYMYpj/3.jpg",
+            "https://i.ibb.co/d7FPMB8/2.jpg",
+            "https://i.ibb.co/fvVQJ69/1.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/Ti8BM8X_4wM?si=9IYEYTWpHVKJkgE7",
+            "https://youtu.be/DUO4aYPQ0PM?si=avixbEAcZQyzQyVq",
+            "https://youtu.be/cQqtI871duI?si=CNocvb9Z5djWIXE6"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "장어초밥 관련 첫 번째 텍스트 내용입니다.",
+            "장어초밥 관련 두 번째 텍스트 내용입니다.",
+            "장어초밥 관련 세 번째 텍스트 내용입니다."
         ]
     }
 }
